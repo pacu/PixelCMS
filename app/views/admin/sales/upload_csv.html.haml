@@ -1,0 +1,18 @@
+= form_for :dump, :url=>{:action=>'import_csv'}, :html => { :multipart => true } do |f|
+  %table
+    %tr
+      %td
+        %label{:for => 'App store report'}
+          Select a CSV File :
+      %td
+        = f.file_field :file
+    %tr
+      %td
+        %label{:for => 'exchange rate'}
+        USD exchange rate
+        (CURRENCY * EXCHANGE_RATE)
+      %td
+        = f.text_field :exchange_rate
+    %tr
+      %td
+        = submit_tag 'Submit'
