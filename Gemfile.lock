@@ -94,7 +94,7 @@ GEM
       warden (~> 1.2.3)
     erubis (2.7.0)
     eventmachine (1.0.3)
-    excon (0.25.3)
+    excon (0.71.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
     fakes3 (0.1.5)
