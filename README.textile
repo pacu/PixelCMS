@@ -1,10 +1,11 @@
 h1. Pixelcms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Hi! This repository is really really old. If it were a kid, it would. be finishing Primary School. 
+Don't use it. Don't fork it. It's just a piece of history. That's all. 
 
 h2. More Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Seriously. Don't
 
 h2. Required Gems
 
@@ -41,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 h2. Contributing
 
-If you make improvements to this application, please share with others.
+~If you make improvements to this application, please share with others.~ Don't "improve it". Please
 
 * Fork the project on GitHub.
 * Make your feature addition or bug fix.
